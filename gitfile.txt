@@ -1,7 +1,12 @@
-git init
-git add .
-git commit -m "message"
-git restore --staged .
-git log   we can see all the commit history and our commit line and time and all
+-git init
+-git add .
+-git commit -m "message"
+-git restore --staged .
+-git log   we can see all the commit history and our commit line and time and all
 
-k
+-git stash       to hide the file which is needed later but we also dont want to add or commit it so it will not be seen in the modified or in the file or anywhere but it is there 
+
+-git stash pop     this bring back file from the stash when we need 
+-git stash         clear it will clear the stash and then we can not bring them back
+-git stash clear   clar all the files which are there in the stash we ca not bring then now
+
