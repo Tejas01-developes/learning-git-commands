@@ -2,3 +2,6 @@ git init
 git add .
 git commit -m "message"
 git restore --staged .
+git log   we can see all the commit history and our commit line and time and all
+
+k
