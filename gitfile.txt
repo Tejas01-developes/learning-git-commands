@@ -9,4 +9,5 @@
 -git stash pop     this bring back file from the stash when we need 
 -git stash         clear it will clear the stash and then we can not bring them back
 -git stash clear   clar all the files which are there in the stash we ca not bring then now
-
+git rebase learnig is in progress
+command for the git rebase is :- git rebase main    the condition si that never run this in the main file
